@@ -1,6 +1,6 @@
-import pypandoc, os, textwrap
+<!-- import pypandoc, os, textwrap
 
-md = r'''<div align="center">
+md = r'''<div align="center"> -->
 
 # Hey there, I'm Teja Ram 👋
 
@@ -185,6 +185,6 @@ I'm always happy to connect with fellow developers, discuss software engineering
 </div>
 '''
 
-out = "/mnt/data/README.md"
+<!-- out = "/mnt/data/README.md"
 pypandoc.convert_text(md, "md", format="md", outputfile=out, extra_args=["--standalone"])
-print(f"Created: {out}\nSize: {os.path.getsize(out)} bytes")
+print(f"Created: {out}\nSize: {os.path.getsize(out)} bytes") -->
