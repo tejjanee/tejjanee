@@ -4,7 +4,7 @@ md = r'''<div align="center"> -->
 
 # Hey there, I'm Teja Ram 👋
 
-### Software Engineer | Full-Stack Developer | IIT Indore'25
+### Software Engineer | Backend Developer | IIT Indore'25
 
 Building scalable backend systems, full-stack applications, and practical AI-powered solutions.
 
