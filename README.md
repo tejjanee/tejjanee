@@ -155,16 +155,6 @@ I'm a **Software Engineer at GlobalLogic (Hitachi Group)** and a **B.Tech gradua
 - 🌍 Secured **Global Rank 94** in CodeChef Contest 145 (2024).
 - 🎯 Ranked in the **top 4.5 percentile in JEE Advanced** among 240,000+ candidates and the **top 3 percentile in JEE Main** among 1.5 million+ candidates.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejjanee&show_icons=true&theme=tokyonight&hide_border=true" alt="Teja Ram's GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejjanee&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-
-<img src="https://streak-stats.demolab.com?user=tejjanee&theme=tokyonight&hide_border=true" alt="GitHub streak">
-
-</div>
 
 ## 🤝 Let's Connect
 
